@@ -1,6 +1,6 @@
 # ĐỒ ÁN NHÓM MÔN AN TOÀN MẠNG MÁY TÍNH
-## Viết ứng dụng
-Viết ứng dụng cho các giải thuật mã hoá sau:
+# Viết ứng dụng
+Viết ứng dụng cho các giải thuật mã hoá sau (Ở đây sử dụng C#)
 1. Mã hoá PlayFair
 2. Mã hoá RSA
 
