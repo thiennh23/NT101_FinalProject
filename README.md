@@ -5,6 +5,6 @@ Viết ứng dụng cho các giải thuật mã hoá sau:
 2. Mã hoá RSA
 
 # Thành viên nhóm
-## Thành viên 1: Lê Thị Ngoc Diễm 		MSSV: 21520186
-## Thành viên 2: Nguyễn Hữu Thiện		MSSV: 21522626
-## Thành viên 3: Võ Tín Thiện 			  MSSV: 21521467
+## Thành viên 2: Nguyễn Hữu Thiện, MSSV: 21522626
+## Lê Thị Ngoc Diễm, MSSV: 21520186
+## Thành viên 3: Võ Tín Thiện, MSSV: 21521467
