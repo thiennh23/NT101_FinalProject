@@ -156,6 +156,20 @@ namespace ATM
             btGiaiMa.Enabled = true;
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            soD.Clear();
+            soQ.Clear();
+            soN.Clear();
+            soE.Clear();
+            soPhiN.Clear();
+            rsa_banGiaiMa.Clear();
+            rsa_BanMaHoa.Clear();
+            rsa_banMaHoaGuiDen.Clear();
+            soP.Clear();
+            rsa_BanRo.Clear();
+        }
+
         private bool AreCoprime(int a, int b)
         {
             while (b != 0)
