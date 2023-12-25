@@ -10,3 +10,15 @@ C:\Users\Thienng23\OneDrive\Desktop\DoAnATM\ATM\obj\Debug\ATM.exe
 C:\Users\Thienng23\OneDrive\Desktop\DoAnATM\ATM\obj\Debug\ATM.pdb
 C:\Users\Thienng23\OneDrive\Desktop\DoAnATM\ATM\obj\Debug\ATM.RSA.resources
 C:\Users\Thienng23\OneDrive\Desktop\DoAnATM\ATM\obj\Debug\ATM.PLAYFAIR.resources
+D:\New folder (2)\NT101_FinalProject\bin\Debug\ATM.exe.config
+D:\New folder (2)\NT101_FinalProject\bin\Debug\ATM.exe
+D:\New folder (2)\NT101_FinalProject\bin\Debug\ATM.pdb
+D:\New folder (2)\NT101_FinalProject\obj\Debug\ATM.csproj.AssemblyReference.cache
+D:\New folder (2)\NT101_FinalProject\obj\Debug\ATM.Form1.resources
+D:\New folder (2)\NT101_FinalProject\obj\Debug\ATM.PLAYFAIR.resources
+D:\New folder (2)\NT101_FinalProject\obj\Debug\ATM.Properties.Resources.resources
+D:\New folder (2)\NT101_FinalProject\obj\Debug\ATM.RSA.resources
+D:\New folder (2)\NT101_FinalProject\obj\Debug\ATM.csproj.GenerateResource.cache
+D:\New folder (2)\NT101_FinalProject\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+D:\New folder (2)\NT101_FinalProject\obj\Debug\ATM.exe
+D:\New folder (2)\NT101_FinalProject\obj\Debug\ATM.pdb
